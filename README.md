@@ -11,7 +11,9 @@
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about VueJs, Bootstarp and any Web Development releated stuffs
 - 📫 How to reach me: [Twitter : @hkhudania](https://twitter.com/hkhudania). 
+
                       [Linkedin: himanshu-khudania](https://www.linkedin.com/in/himanshu-khudania/). 
+                 
                       [Website: https://himanshu-khudania.github.io](https://himanshu-khudania.github.io). 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  -->
