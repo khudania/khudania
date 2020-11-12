@@ -10,9 +10,12 @@
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about VueJs, Bootstarp and any Web Development releated stuffs
-- 📫 How to reach me: [Twitter : @hkhudania](https://twitter.com/hkhudania). 
+- 📫 How to reach me: 
+                      
 
                       [Linkedin: himanshu-khudania](https://www.linkedin.com/in/himanshu-khudania/). 
+                      
+                      [Twitter : @hkhudania](https://twitter.com/hkhudania). 
                  
                       [Website: https://himanshu-khudania.github.io](https://himanshu-khudania.github.io). 
 <!-- - 😄 Pronouns: ...
