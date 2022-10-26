@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on Online Project to Track and Manage the Entire Project life Cycle
+- 🔭 I’m currently working on Online store and inventroy management system with indent management system.
 - 🌱 I’m currently learning Dart and ML
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
