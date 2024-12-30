@@ -19,7 +19,7 @@
 
 He/Him
 
-[![Himanshu's github stats](https://github-readme-stats.vercel.app/api?username=khudania)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <picture>
   <source
