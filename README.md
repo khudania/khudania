@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on Online store and inventroy management system with indent management system.
-- 🌱 I’m currently learning Dart and ML
+- 🌱 I’m currently learning Docker & Kubernetes, Dart and Flutter
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about VueJs, Bootstarp and any Web Development releated stuffs
